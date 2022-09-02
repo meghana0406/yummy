@@ -73,4 +73,4 @@ Contact division tells us about details like location of restuarant ,opening and
 
 
 
-link to my FRT project is:
+link to my FRT project is:https://proud-hill-090986510.1.azurestaticapps.net/
